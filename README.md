@@ -8,6 +8,7 @@
 ###  Установка игр:
 1) git clone https://github.com/SanyaNaGit/backend-project-44.git
 2) make install
+3) make publish
 
 ###  Общие правила игр:
 1) Для успешного прохождения игры пользователю необходимо правильно ответить на 3 вопроса подряд.
