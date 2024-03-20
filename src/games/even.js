@@ -7,7 +7,7 @@ const randomNum = (min, max) => Math.floor(Math.random() * (max - min + 1)) + mi
 const getQuestion = () => {
   const question = randomNum(1, 100);
   const answer = isEven(question) ? 'yes' : 'no';
-  return [question, answer];
+  return [String(question), answer];
 };
 
 export { rule, getQuestion };
