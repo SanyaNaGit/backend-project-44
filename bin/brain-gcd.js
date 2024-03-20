@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { rule, getQuestion } from '../src/games/gcd.js';
 import runGame from '../src/index.js';
 
